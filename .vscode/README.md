@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para ajudar as pessoas a realizarem tarefas diarias.
 
+- [Visite o projeto online](https://marcospassosti.github.io/nlw-Setup)
+
 
 ## 🔖 Layout
 
